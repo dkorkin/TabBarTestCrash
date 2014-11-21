@@ -4,53 +4,53 @@
 <array>
 	<dict>
 		<key>ZMTabBackgroundImageNormalState</key>
-		<string>tab-bar-background-type2-static</string>
+		<string>tabBarBG</string>
 		<key>ZMTabBackgroundImageHighlightedState</key>
-		<string>tab-bar-background-type2-static</string>
+		<string>tabBarBG1</string>
 		<key>ZMTabImageNormalState</key>
-		<string>tab-bar-home-icon-static</string>
+		<string>infoBarButtonNL</string>
 		<key>ZMTabImageHighlightedState</key>
-		<string>tab-bar-home-icon-active</string>
+		<string>infoBarButtonHL</string>
 	</dict>
 	<dict>
 		<key>ZMTabBackgroundImageNormalState</key>
-		<string>tab-bar-background-type2-static</string>
+		<string>tabBarBG</string>
 		<key>ZMTabBackgroundImageHighlightedState</key>
-		<string>tab-bar-background-type2-static</string>
+		<string>tabBarBG1</string>
 		<key>ZMTabImageNormalState</key>
-		<string>tab-bar-activity-icon-static</string>
+		<string>infoBarButtonNL</string>
 		<key>ZMTabImageHighlightedState</key>
-		<string>tab-bar-activity-icon-active</string>
+		<string>infoBarButtonHL</string>
 	</dict>
 	<dict>
 		<key>ZMTabBackgroundImageNormalState</key>
-		<string>tab-bar-background-type1-static</string>
+		<string>tabBarBG</string>
 		<key>ZMTabBackgroundImageHighlightedState</key>
-		<string>tab-bar-background-type1-active</string>
+		<string>tabBarBG1</string>
 		<key>ZMTabImageNormalState</key>
-		<string>tab-bar-photo-icon-static</string>
+		<string>infoBarButtonNL</string>
 		<key>ZMTabImageHighlightedState</key>
-		<string>tab-bar-photo-icon-active</string>
+		<string>infoBarButtonHL</string>
 	</dict>
 	<dict>
 		<key>ZMTabBackgroundImageNormalState</key>
-		<string>tab-bar-background-type2-static</string>
+		<string>tabBarBG</string>
 		<key>ZMTabBackgroundImageHighlightedState</key>
-		<string>tab-bar-background-type2-static</string>
+		<string>tabBarBG1</string>
 		<key>ZMTabImageNormalState</key>
-		<string>tab-bar-chat-icon-static</string>
+		<string>infoBarButtonNL</string>
 		<key>ZMTabImageHighlightedState</key>
-		<string>tab-bar-chat-icon-active</string>
+		<string>infoBarButtonHL</string>
 	</dict>
 	<dict>
 		<key>ZMTabBackgroundImageNormalState</key>
-		<string>tab-bar-background-type2-static</string>
+		<string>tabBarBG</string>
 		<key>ZMTabBackgroundImageHighlightedState</key>
-		<string>tab-bar-background-type2-static</string>
+		<string>tabBarBG1</string>
 		<key>ZMTabImageNormalState</key>
-		<string>tab-bar-profile-icon-static</string>
+		<string>infoBarButtonNL</string>
 		<key>ZMTabImageHighlightedState</key>
-		<string>tab-bar-profile-icon-active</string>
+		<string>infoBarButtonHL</string>
 	</dict>
 </array>
 </plist>
