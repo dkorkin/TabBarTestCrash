@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ZMTabBackgroundImageNormalState</key>
+		<string>tab-bar-background-type2-static</string>
+		<key>ZMTabBackgroundImageHighlightedState</key>
+		<string>tab-bar-background-type2-static</string>
+		<key>ZMTabImageNormalState</key>
+		<string>tab-bar-home-icon-static</string>
+		<key>ZMTabImageHighlightedState</key>
+		<string>tab-bar-home-icon-active</string>
+	</dict>
+	<dict>
+		<key>ZMTabBackgroundImageNormalState</key>
+		<string>tab-bar-background-type2-static</string>
+		<key>ZMTabBackgroundImageHighlightedState</key>
+		<string>tab-bar-background-type2-static</string>
+		<key>ZMTabImageNormalState</key>
+		<string>tab-bar-activity-icon-static</string>
+		<key>ZMTabImageHighlightedState</key>
+		<string>tab-bar-activity-icon-active</string>
+	</dict>
+	<dict>
+		<key>ZMTabBackgroundImageNormalState</key>
+		<string>tab-bar-background-type1-static</string>
+		<key>ZMTabBackgroundImageHighlightedState</key>
+		<string>tab-bar-background-type1-active</string>
+		<key>ZMTabImageNormalState</key>
+		<string>tab-bar-photo-icon-static</string>
+		<key>ZMTabImageHighlightedState</key>
+		<string>tab-bar-photo-icon-active</string>
+	</dict>
+	<dict>
+		<key>ZMTabBackgroundImageNormalState</key>
+		<string>tab-bar-background-type2-static</string>
+		<key>ZMTabBackgroundImageHighlightedState</key>
+		<string>tab-bar-background-type2-static</string>
+		<key>ZMTabImageNormalState</key>
+		<string>tab-bar-chat-icon-static</string>
+		<key>ZMTabImageHighlightedState</key>
+		<string>tab-bar-chat-icon-active</string>
+	</dict>
+	<dict>
+		<key>ZMTabBackgroundImageNormalState</key>
+		<string>tab-bar-background-type2-static</string>
+		<key>ZMTabBackgroundImageHighlightedState</key>
+		<string>tab-bar-background-type2-static</string>
+		<key>ZMTabImageNormalState</key>
+		<string>tab-bar-profile-icon-static</string>
+		<key>ZMTabImageHighlightedState</key>
+		<string>tab-bar-profile-icon-active</string>
+	</dict>
+</array>
+</plist>
